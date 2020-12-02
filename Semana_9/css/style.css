@@ -1,1 +1,23 @@
-
+body {
+    background-color: rgba(207, 207, 207, 0.822);
+    }
+    H1{
+        text-align: center;
+    }
+    form {
+    margin: 0 auto;
+    border-radius: 30px;
+    border: 1px solid #666666;
+    width: 1000px;
+    font: oblique bold 120% cursive;
+    margin-top: -110px;
+    margin: 0 auto;
+    align-content: center;
+    }
+    textarea{
+    height: 350px;
+	  resize: none;
+	  overflow: auto;
+	  width: 900px;
+    font: oblique bold 120% cursive;
+    }
