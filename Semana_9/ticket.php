@@ -58,7 +58,7 @@
     ?>
     </textarea>
     <br> 
-    <input type="button" value="Volver a comprar" name="backtienda" OnClick="location.href='https://tiendaphp.erickalexandera.repl.co/Semana_8/tienda.php'" >
+    <input type="button" value="Volver a comprar" name="backtienda" OnClick="location.href='https://tiendaphp.erickalexandera.repl.co/Semana_9/tienda.php'" >
     <br>
     <script src="carrito.js" language="javascript" type="text/javascript">
     </script></div>
