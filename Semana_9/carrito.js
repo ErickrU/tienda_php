@@ -10,7 +10,7 @@ function data() {
 		var s3=parseFloat(rTWW);
 		var TC =s1*s3;
 		t = t + TC;
-		document.getElementById("CC").value += "Cantidad "+L+"\tProducto "+vect+"\tTotal  "+ " $"+TC + "\n\n";
+		document.getElementById("CC").value += "Cantidad "+L+"\tProducto "+vect+"\tTotal  "+ " $"+TC + "\n";
 		document.getElementById('PGR').value=t;
 
 	}
